@@ -1,3 +1,9 @@
+== NOTICE
+
+Github's gems are down: http://gems.github.com
+
+You can find Whenever mirrored at http://gemcutter.org/gems/whenever, but note that it is just called "whenever" there, not "javan-whenever" so adjust the directions below accordingly.
+
 == Introduction
 
 Whenever is a Ruby gem that provides a clear syntax for defining cron jobs. It outputs valid cron syntax and can even write your crontab file for you. It is designed to work well with Rails applications and can be deployed with Capistrano. Whenever works fine independently as well.
