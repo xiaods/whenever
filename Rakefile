@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'rake'
 
-require 'lib/whenever/version.rb'
+require File.expand_path(File.dirname(__FILE__)+'/lib/whenever/version.rb')
 
 begin
   require 'jeweler'
