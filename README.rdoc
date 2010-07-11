@@ -2,11 +2,13 @@
 request set env variable
 
 first grap PATH variable
+
 env|grep PATH
 
 in schedule.rb
 
 env :GEM_PATH, 'path_to_gem_path'
+
 env :BUNDLE, 'path_bundle_path'
 
 
